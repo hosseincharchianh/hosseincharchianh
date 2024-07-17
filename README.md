@@ -52,7 +52,7 @@
   <br>
   <img alt="snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 
@@ -68,11 +68,6 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseincharchianh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 -->
-
-
-
-
-<hr/>
 
 
 <h1 align="center">
