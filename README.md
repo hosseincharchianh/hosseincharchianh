@@ -5,3 +5,15 @@
 </h1>
 
 <h3 align="center">A passionate WEB developer from Iran 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **MOONcafe**
+ 
+ 🌱 I’m currently learning **AG, javascript , typescript**
+
+⚡ I’m going to learn **python , cotlin , java**
+
+ </div>
