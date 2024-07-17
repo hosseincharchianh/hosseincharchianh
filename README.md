@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hossein+Charchian!;" />
 </h1>
 
-<h3 align="center">A passionate WEB developer from Iran!  ![image](https://github.com/user-attachments/assets/54244485-1737-4e06-83c9-9b0e0000ca9d)
+<h3 align="center">A passionate WEB developer from Iran!
 
  </h3>
 
