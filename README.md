@@ -77,6 +77,6 @@
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
 </div>
 
-<h1>
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=These+are+my+last+projects;+🎈;" />
 </h1>
