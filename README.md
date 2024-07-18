@@ -70,8 +70,11 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseincharchianh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 -->
+<h2 align="center">⚡ Stats ⚡</h2>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="hosseincharchianh's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="hosseincharchianh's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseincharchianh&theme=darcula&hide_border=true" alt="hosseincharchianh's GitHub Stats" />
 
 
 <h1 align="center">
