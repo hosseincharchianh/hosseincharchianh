@@ -72,8 +72,6 @@
 -->
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-![hosseincharchianh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hosseincharchianh&theme=dracula&hide_border=true)
 
 
 <h1 align="center">
