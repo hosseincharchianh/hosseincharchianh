@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hosseincharchianh.hosseincharchianh" />
 
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hossein+Charchian!;" />
 </h1>
 
@@ -71,12 +71,12 @@
 </div>
 -->
 <h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&count_private=true&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseincharchianh&theme=darcula&hide_border=true&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
+<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
+</div>
 
-<img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&count_private=true&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosseincharchianh&theme=darcula&hide_border=true&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
-<img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
-
-
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=These+are+my+last+projects;+🎈;" />
 </h1>
